@@ -21,3 +21,4 @@ FastCode is a YoutTube series in Ramadan 2018, explaining the ES6 features in Ja
 
 
 Links to be added later.
+Some test
