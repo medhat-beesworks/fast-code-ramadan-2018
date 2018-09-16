@@ -18,6 +18,3 @@ FastCode is a YoutTube series in Ramadan 2018, explaining the ES6 features in Ja
 - EP13 - Objects
 - EP14 - What's Next?
 - EP15 - The All-in-one Video
-
-
-Links to be added later.
